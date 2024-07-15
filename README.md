@@ -1,7 +1,5 @@
 # Fake_News_Detection
 
-# Fake News Detection Project
-
 ## Overview
 This project implements a machine learning-based system for detecting fake news articles. It uses advanced NLP techniques and a user-friendly Streamlit interface to provide real-time credibility assessments of news content.
 
@@ -32,7 +30,9 @@ This project implements a machine learning-based system for detecting fake news 
 
 ## Installation
 git clone https://github.com/amisha1106/fake-news-detection.git
+
 cd fake-news-detection
+
 pip install -r requirements.txt
 
 ## Usage
